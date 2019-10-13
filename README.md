@@ -10,7 +10,7 @@ A simple file uploader that uploads a file to AWS via GraphQL.
 - GraphQL
 - AWS
 
-## How to install
+## Install
 
 1. Clone this repo
 2. npm install
