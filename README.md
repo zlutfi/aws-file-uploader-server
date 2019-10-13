@@ -1,12 +1,8 @@
-# AWS File Uploader
+# AWS File Uploader Server
 
 A simple file uploader that uploads a file to AWS via GraphQL.
 
 ## Technology
-
-### Front-end
-
-- React
 
 ### Backend
 
